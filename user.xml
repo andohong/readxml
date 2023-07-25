@@ -1,4 +1,5 @@
-    <USER year="2018">
+    <USERS>
+	<USER year="2018">
         <NAME>VETTEL</NAME>
         <TEAM>FERRARI</TEAM>
     </USER>
@@ -22,3 +23,4 @@
         <NAME>VERSTAPPEN</NAME>
         <TEAM>REDBULL</TEAM>
     </USER>
+	</USERS>
